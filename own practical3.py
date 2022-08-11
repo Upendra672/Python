@@ -1,4 +1,5 @@
 #PRATICAL3
+#hii
 
 print("Enter the Purchase amount:")
 amount=int(input("Enter the Purchase amount:"))
